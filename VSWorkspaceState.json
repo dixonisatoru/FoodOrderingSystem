@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FoodOrderingSystem",
+    "\\FoodOrderingSystem\\bin",
+    "\\FoodOrderingSystem\\Models",
+    "\\FoodOrderingSystem\\Payments",
+    "\\FoodOrderingSystem\\UI"
+  ],
+  "SelectedNode": "\\FoodOrderingSystem\\Models\\FoodItem.cs",
+  "PreviewInSolutionExplorer": false
+}
